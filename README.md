@@ -233,7 +233,6 @@
     </div>
     <div class="content">
         <div class="data-container">
-            <h1>Team Data</h1>
             <h2>Collected Data</h2>
             <p id="ph">PH: Loading...</p>
             <p id="tds">TDS: Loading...</p>
